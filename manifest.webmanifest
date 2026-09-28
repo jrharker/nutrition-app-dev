@@ -1,6 +1,6 @@
 {
-  "name": "Nutrition App",
-  "short_name": "Nutrition",
+  "name": "Nutrition App DEV",
+  "short_name": "Nutrition DEV",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0b3b75",
